@@ -1,0 +1,48 @@
+ROC-CLAREMONT WITH A TWIST A ROUTE 45 MILES
+http://veloroutes.org/r/92110	
+E	Chestnut 
+L	Ivy 
+R	Walnut 
+R	Shamrock
+L	Royal Oaks
+R	Encanto 
+L	Bike Bridge 
+STOP	REGROUP
+L	Bike Path 
+R	Todd 
+L	Sierra Madre
+R	Valley Center 
+STOP	REGROUP
+L	Foothill 
+R	Amelia 
+L	Foothill 
+L	Baseline 
+STOP	REGROUP
+R	Mills 
+Q  L	Shopping Cntr
+STOP	COFFEE at EURO CAFE 
+S 	Mills 
+L	Foothill
+R	Claremont 
+R	6th 
+L	College Ave
+R	Bonita 
+L	San Dimas 
+STOP	REGROUP
+R	Arrow Hwy 
+L	Cataract 
+INTO	Covina
+INTO	Badillo 
+R	Orange 
+L	San Bernardino
+R	Azusa Canyon 
+INTO	Santa Fe Recreation Park
+R INTO	Bike Path at Entrance Booth
+N	Bike Path
+L	Bike Bridge 
+R	Encanto 
+L	Royal Oaks 
+R	Shamrock
+L	Walnut 
+L	Ivy 
+R	Chestnut 

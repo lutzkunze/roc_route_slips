@@ -1,0 +1,43 @@
+ROC-CLAREMONT WITH A TWIST B ROUTE 42.6 miles
+http://veloroutes.org/r/92112	
+E	Chestnut 
+L	Ivy 
+R	Walnut 
+R	Shamrock
+L	Royal Oaks
+R	Encanto 
+L	Bike Bridge 
+STOP	REGROUP
+L	Bike Path 
+R	Todd 
+L	10th
+R 	Vernon
+L	10th
+R	Pasadena
+L	Foothill
+R INTO	Alosta
+INTO	Rte 66
+INTO	Foothill
+L	Baseline
+STOP	COFFEE at EURO CAFE 
+S 	Mills 
+L	Foothill
+R	Claremont 
+R	6th 
+L	College 
+INTO	Bonita 
+R	San Dimas Canyon
+STOP	REGROUP
+L	Gladstone
+R	Motor
+L	1st
+L	Peckham
+INTO	Bike Path 
+R	Bike Path 
+L	Bike Bridge 
+R	Encanto 
+L	Royal Oaks
+R	Shamrock
+L	Walnut 
+L	Ivy 
+R	Chestnut 

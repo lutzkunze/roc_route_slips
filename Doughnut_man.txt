@@ -1,0 +1,28 @@
+Doughnut Man, 05/01/3
+
+S Chestnut east to Ivy Ave.
+L Ivy north to Walnut Ave. (0.1)
+R Walnut east to Shamrock Ave. (0.7)
+R Shamrock south to Royal Oaks Dr. (0.7)
+L Royal Oaks east to Encanto Pkwy (3.9)
+R Encanto south to bike bridge (4.2)
+L bike bridge east to SGR Bike Trail (4.4)
+L SGRBT north to Todd Ave. exit (5.1)
+R Todd south to Sierra Madre Ave. (5.4)
+L Sierra Madre east to Valley Center Ave. (10.7)
+R Valley Center south to Compromise Line Rd. (11.9)
+L Compromise Line east to Rte 66 (12.0)
+L sharp Rte 66 west to Doughnut Man ( 13.0)
+	Doughnut Man, 915 Rte 66, Glendora
+C Rte 66 west to Grand Ave.  (14.3)
+R Grand north to Bennett Ave. (15.1)
+L Bennett west to Barranca Ave. (15.6)
+R Barranca north to Sierra Madre Ave. (16.1)
+L Sierra Madre west to Todd Ave. (18.9)
+R Todd north to SGR Bike Trail (19.1)
+L SGRBT south to bike bridge (19.9)
+R bike bridge west to Encanto Pkwy (20.0)
+R Encanto north to Royal Oaks Dr. (20.3)
+L Royal Oaks west to Shamrock Ave. (23.7)
+R Shamrock north to Walnut Ave. (23.7)
+L Walnut west to Myrtle Ave. (24.3)
