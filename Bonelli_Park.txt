@@ -1,44 +1,45 @@
-Regular Saturday Ride, 03/30/13
-http://www.mapmyride.com/routes/view/79265568/
-1.	Start Chestnut Ave, ½ block east of Myrtle Ave.
-2.	C Chestnut east to Ivy Ave. (0.1)
-3.	L Ivy north to Walnut Ave. (0.2)
-4.	R Walnut east to Shamrock Ave. (0.6)
-5.	R Shamrock south to Royal Oaks Dr. (0.6)
-6.	L Royal Oaks east to Encanto Pkwy. (3.9)
-7.	R Encanto south to bike bridge (4.1)
-REGROUP
-8.	L bike bridge east to SGR bike path (4.2)
-9.	L SGR bike path north to Todd Ave. exit (5.0)
-10.	 R Todd Ave south to Sierra Madre Ave. (5.2)
-11.	 L Sierra Madre east to Valley Center Ave. (10.6)
-REGROUP
-12.	 R Valley Center south to Foothill Blvd. (11.3)
-13.	 L Foothill east to Amelia Ave. (12.2)
-14.	 R Amelia south to Foothill Blvd. (13.0)
-15.	 L  Foothill east to San Dimas Ave. (13.8)
-REGROUP
-16.	 R San Dimas south to Puddingstone Dr. (16.0)
-17.	 L Puddingstone east to Fairplex Dr. (18.1)
-18.	 R Fairplex south to McKinley Ave. (18.8)
-REGROUP
-19.	 R McKinley west to Camp Site 162 (19.8)
-Coffee at the Cardona’s camp site (#)
-20.	C Fisherman Park west to Via Verde (21.6)
-21.	R Via Verde west to Puente St (22.9)
-REGROUP
-22.	 R Puente northwest to Reeder Ave. (24.4)
-23.	 C Reeder north to Cypress St. (25.4)
-24.	 L Cypress west to Azusa Canyon Rd. (30.6)
-REGROUP
-25.	 R Azusa Canyon north to Arrow Hwy (31.2)
-26.	 C Into Santa Fe Dam Park to Peckham Rd. (32.1)
-27.	 L Onto SGVR Bike Path west to Nature Center (32.6)
-28.	R SGRV Bike Path north to bike bridge (34.9)
-29.	L bike bridge west to Encanto Pkwy. (35.0)
-REGROUP
-30.	R Encanto north to Royal Oaks Dr. (35.1)
-31.	 L Royal Oaks west to Shamrock Ave. (38.5)
-32.	R Shamrock north to Walnut Ave.  (38.6)
-33.	L Walnut west to Myrtle Ave. (39.0)
+Bonelli Park
 
+http://www.mapmyride.com/routes/view/79265568/
+
+Start Chestnut Ave, ½ block east of Myrtle Ave.
+C Chestnut east to Ivy Ave. (0.1)
+L Ivy north to Walnut Ave. (0.2)
+R Walnut east to Shamrock Ave. (0.6)
+R Shamrock south to Royal Oaks Dr. (0.6)
+L Royal Oaks east to Encanto Pkwy. (3.9)
+R Encanto south to bike bridge (4.1)
+REGROUP
+L bike bridge east to SGR bike path (4.2)
+L SGR bike path north to Todd Ave. exit (5.0)
+R Todd Ave south to Sierra Madre Ave. (5.2)
+L Sierra Madre east to Valley Center Ave. (10.6)
+REGROUP
+R Valley Center south to Foothill Blvd. (11.3)
+L Foothill east to Amelia Ave. (12.2)
+R Amelia south to Foothill Blvd. (13.0)
+L  Foothill east to San Dimas Ave. (13.8)
+REGROUP
+R San Dimas south to Puddingstone Dr. (16.0)
+L Puddingstone east to Fairplex Dr. (18.1)
+R Fairplex south to McKinley Ave. (18.8)
+REGROUP
+R McKinley west to Camp Site 162 (19.8)
+Coffee at the Cardona’s camp site (#)
+C Fisherman Park west to Via Verde (21.6)
+R Via Verde west to Puente St (22.9)
+REGROUP
+R Puente northwest to Reeder Ave. (24.4)
+C Reeder north to Cypress St. (25.4)
+L Cypress west to Azusa Canyon Rd. (30.6)
+REGROUP
+R Azusa Canyon north to Arrow Hwy (31.2)
+C Into Santa Fe Dam Park to Peckham Rd. (32.1)
+L Onto SGVR Bike Path west to Nature Center (32.6)
+R SGRV Bike Path north to bike bridge (34.9)
+L bike bridge west to Encanto Pkwy. (35.0)
+REGROUP
+R Encanto north to Royal Oaks Dr. (35.1)
+L Royal Oaks west to Shamrock Ave. (38.5)
+R Shamrock north to Walnut Ave.  (38.6)
+L Walnut west to Myrtle Ave. (39.0)

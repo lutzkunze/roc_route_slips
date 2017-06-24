@@ -1,5 +1,7 @@
 Turnbull Clockwise
+
 http://www.mapmyride.com/routes/fullscreen/187522410/	
+
 	Chestnut east to Ivy Ave.	0.1
 L	Ivy north to Walnut Ave.	0.2
 R	Walnut east to Shamrock Ave.	0.7

@@ -1,5 +1,7 @@
-ROC-CLAREMONT 41.6 MI
+CLAREMONT 
+41.6 MI
 http://veloroutes.org/r/92476	
+
 E	CHESTNUT AV
 L	IVY AV
 R	WALNUT AV
