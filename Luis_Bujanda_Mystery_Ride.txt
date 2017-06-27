@@ -1,0 +1,33 @@
+Luis Bujanda Mystery Ride
+46.82 Miles, 2177 feet
+http://www.mapmyride.com/routes/view/1648140137
+
+S  Myrtle Ave
+C  Peck Road
+C  Rush St
+R  Durfee Ave
+REGROUP
+C  Peck Road
+C  Workman Mill Road
+L  Beverly Blvd
+R  Magnolia Ave
+L  Broadway
+R  Painter Ave
+L  Mar Vista St
+L  Colima Road
+REGROUP
+
+Caffe Bene
+18716 Colima Road
+Rowland Heights
+
+C  Golden Springs Drive
+L  Grand Ave
+L  Route 66 (Foothill)
+C  Huntington Drive
+R  Las Lomas Road
+REGROUP
+L  Royal Oaks Drive
+R  California Ave
+L  Lemon Ave
+R  Primrose Ave
