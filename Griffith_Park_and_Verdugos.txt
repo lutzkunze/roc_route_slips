@@ -64,4 +64,3 @@ L  Sycamore Ave
 R  2nd Ave
 L  Colorado Blvd
 L  Primrose Ave
-

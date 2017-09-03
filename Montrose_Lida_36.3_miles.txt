@@ -1,9 +1,8 @@
 Montrose Via Lida
 36.3 miles
 
-
-Start Chestnut Ave, ½ blk west of Myrtle
-Chestnut west to Santa Clara (1.8)
+S Primrose to Chestnut
+R Chestnut west to Santa Clara (1.8)
 C Santa Clara west to Huntington (1.8)
 R Huntington southwest to Monterey (6.4)
 REGROUP
@@ -45,4 +44,4 @@ R Highland Oaks south to Sycamore (34.1)
 L Sycamore east to 2nd (34.3)
 R Sycamore south to Colorado (34.8)
 L Colorado east to Primrose (36.0)
-R Primrose south to Chestnut (36.3)
+L Primrose (36.3)

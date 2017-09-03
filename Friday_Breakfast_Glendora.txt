@@ -1,10 +1,7 @@
 Friday Breakfast Ride To Glendora (5/27/14)
 
-
-
-Continue east on Chestnut to Ivy Ave (0.1)
-L Ivy north to Walnut Ave (0.2)
-R Walnut east to Shamrock Ave (0.7)
+Continue south on Primrose Av to Colorado Blvd
+L Colorado east to Shamrock Ave (0.7)
 R Shamrock south to Royal Oaks Dr (0.8)
 L Royal Oaks east to Encanto Pkwy (4.0)
 R Encanto south to bike bridge (4.1)
@@ -39,6 +36,5 @@ Regroup
 R Encanto north to Royal Oaks Dr (18.6)
 L Royal Oaks west to Shamrock Ave (22.0)
 R Shamrock north to Walnut Ave (22.0)
-L Walnut west to Ivy Ave (22.3)
-L Ivy south to Chestnut Ave (22.5)
-L Chestnut west to Myrtle (22.7)
+L Colorado west to Primrose Ave (22.3)
+R Primrose Ave north to start (22.7)

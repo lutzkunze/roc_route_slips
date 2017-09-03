@@ -2,8 +2,8 @@ East San Gabriel Valley Loop
 
 http://www.mapmyride.com/routes/view/131159765
 
-Start Chestnut ½ blk east of Myrtle Ave
-L Myrtle south to Peck Rd (2.1)
+Start @ Foothill & Myrtle
+Myrtle south to Peck Rd (2.1)
 C Peck south to Ramona Blvd (5.0)
 REGROUP
 L Ramona east to Badillo St (9.0)
@@ -28,6 +28,6 @@ L Encanto south to Hacienda Dr (29.2)
 R Hacienda west to Las Lomas Rd (29.2)
 R Las Lomas north to Royal Oaks Dr (30.0)
 L Royal Oaks west to California Ave (32.8)
-L California south to Almond Ave (32.9)
-R Almond west to Canyon Blvd (32.9)
-R Canyon north to Chestnut Ave (33.2)
+R California north to Colorado Blvd (32.9)
+L Colorado Blvd to Primrose Ave(32.9)
+R Primrose Ave north to start (33.2)

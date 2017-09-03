@@ -1,10 +1,7 @@
 Monrovia to Glendora RT
 
-
-
-Chestnut east to Ivy Ave(0.1)
-L Ivy north ½ blk to Walnut (0.2)
-R Walnut east to Shamrock Blvd (0.5)
+Primrose south to Colorado Blvd (0.1)
+L Colorado east to Shamrock Blvd (0.5)
 R Shamrock south to Royal Oaks Dr(0.5)
 L Royal Oaks east to Encanto Pkwy (3.7)
 L Encanto south to bridge (4.0)
@@ -32,7 +29,6 @@ L Bike path south to bridge (20.2)
 R bridge west to Encanto Pkwy (20.3)
 R Encanto north to Royal Oaks Dr (20.6)
 L Royal Oaks west to Shamrock Ave (23.9)
-R Shamrock north to Walnut Ave (24.0)
-L Walnut west to Ivy Ave (24.6)
-L Ivy south to Chestnut Ave (24.7)
-R Chestnut west to Myrtle (24.74)
+R Shamrock north to Colorado Blvd (24.0)
+L Colorado west to Primrose Ave (24.6)
+R Primrose north to start (24.7)

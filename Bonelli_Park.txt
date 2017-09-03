@@ -2,10 +2,8 @@ Bonelli Park
 
 http://www.mapmyride.com/routes/view/79265568/
 
-Start Chestnut Ave, ½ block east of Myrtle Ave.
-C Chestnut east to Ivy Ave. (0.1)
-L Ivy north to Walnut Ave. (0.2)
-R Walnut east to Shamrock Ave. (0.6)
+Start Primrose Ave, heading south @ Foothill
+L Walnut east to Shamrock Ave. (0.6)
 R Shamrock south to Royal Oaks Dr. (0.6)
 L Royal Oaks east to Encanto Pkwy. (3.9)
 R Encanto south to bike bridge (4.1)
@@ -42,4 +40,5 @@ REGROUP
 R Encanto north to Royal Oaks Dr. (35.1)
 L Royal Oaks west to Shamrock Ave. (38.5)
 R Shamrock north to Walnut Ave.  (38.6)
-L Walnut west to Myrtle Ave. (39.0)
+L Walnut west to Primrose Ave. (39.0)
+R Primrose Ave north to start

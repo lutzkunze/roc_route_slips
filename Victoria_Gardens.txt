@@ -49,4 +49,3 @@ L  E Olive Ave
 R  Shamrock Ave
 L  E Colorado Blvd
 R  Primrose Ave
-

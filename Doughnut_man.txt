@@ -1,9 +1,7 @@
 Doughnut Man, 05/01/3
 
-
-S Chestnut east to Ivy Ave.
-L Ivy north to Walnut Ave. (0.1)
-R Walnut east to Shamrock Ave. (0.7)
+Primrose south to Colorado Blvd.
+R Colorado east to Shamrock Ave. (0.7)
 R Shamrock south to Royal Oaks Dr. (0.7)
 L Royal Oaks east to Encanto Pkwy (3.9)
 R Encanto south to bike bridge (4.2)
@@ -25,5 +23,5 @@ L SGRBT south to bike bridge (19.9)
 R bike bridge west to Encanto Pkwy (20.0)
 R Encanto north to Royal Oaks Dr. (20.3)
 L Royal Oaks west to Shamrock Ave. (23.7)
-R Shamrock north to Walnut Ave. (23.7)
-L Walnut west to Myrtle Ave. (24.3)
+R Shamrock north to Colorado Blvd  (23.7)
+R Primrose Ave north to start (24.3)

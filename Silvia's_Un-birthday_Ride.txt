@@ -58,10 +58,3 @@ REGROUP
 L  Greenhill Road
 R  Santa Anita Road
 L  Foothill Blvd
-
-
-
-
-
-
-

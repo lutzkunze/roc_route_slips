@@ -2,9 +2,8 @@ CLAREMONT w/A TWIST - A ROUTE
 45 MILES
 http://veloroutes.org/r/92110	
 
-E	Chestnut 
-L	Ivy 
-R	Walnut 
+S	Primrose 
+L	Colorado 
 R	Shamrock
 L	Royal Oaks
 R	Encanto 
@@ -45,6 +44,5 @@ L	Bike Bridge
 R	Encanto 
 L	Royal Oaks 
 R	Shamrock
-L	Walnut 
-L	Ivy 
-R	Chestnut 
+L	Colorado 
+R	Primrose 

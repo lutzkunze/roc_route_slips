@@ -1,10 +1,8 @@
 Dalton Canyon, Classic Coffee Glendora 
 (28 miles)
 
-
-Chestnut Ave east to Ivy Ave.
-L Ivy north to Walnut
-R Walnut east to Shamrock (0.7)
+Primrose Ave south to Colorado Blvd
+L Colorado east to Shamrock
 R Shamrock south to Royal Oaks (0.7)
 L Royal Oaks east to Encanto Pkwy (3.8)
 R Encanto Pkwy south to bike bridge (4.1)
@@ -30,5 +28,6 @@ L SGRBT south to bike bridge (23.2)
 R bike bridge west to Encanto Pkwy (23.4)
 R Encanto north to Royal Oaks Dr (23.7)
 W Royal Oaks west to Shamrock Ave (26.9)
-R Shamrock north to Walnut Ave (27.0)
-L Walnut west to Myrtle Ave (27.6)
+R Shamrock north to Colorado Blvd (27.0)
+L Colorado west to Primrose Ave (27.6)
+R Primrose Ave north to start
