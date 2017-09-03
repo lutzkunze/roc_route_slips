@@ -23,6 +23,7 @@ REGROUP at 134 overpass
 R  Sonora Ave
 L  Glenoaks
 
+Coffee at
 Paradise Bakery
 1825 W Glenoaks Blvd
 
@@ -30,9 +31,7 @@ N  Irving Ave
 L  Kenneth Road
 R  Providencia Ave
 L  Bel Aire Drive
-R  (after Amherst Dr, before University Ave)
-REGROUP
-Four switchbacks, low gear time!
+REGROUP AT GATE
 R  Bel Aire Drive
 C  Lockheed View Dr
 L  Walnut Ave
