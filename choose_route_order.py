@@ -15,7 +15,7 @@
 #
 # or (better yet):
 #
-#   time python choose_route_order.py `cat Active_Rides.txt`
+#   python choose_route_order.py `cat Active_Rides.txt`
 
 import sys
 from itertools import permutations
@@ -99,23 +99,46 @@ for fileName1,fileContents1 in map(None, nameToWords.keys(), nameToWords.values(
       if (fileName1 != fileName2):
          transitionToDistance[fileName1 + " -> " + fileName2] = CalculateSimilarityPercentage(fileContents1, fileContents2)
    
-print "\nComputing the best sequence for %i route slips -- this may take a long time..." % len(nameToWords)
+print "\nComputing the best sequence for %i route slips..." % len(nameToWords)
 
 # And finally we'll compute the shortest path through all the nodes in the
 # network via Sheer Brute Force
 minDist  = None
 bestPath = None
-for nextPath in permutations(nameToWords.keys()):
+
+# Brute force implementation -- will find the optimal result
+# but will also take way to long to complete if the number of route
+# slips is more than 5-10!
+
+#for nextPath in permutations(nameToWords.keys()):
+#   pathDist = CalculatePathLength(nextPath, transitionToDistance)
+#   if ((minDist == None) or (pathDist < minDist)):
+#      minDist  = pathDist
+#      bestPath = nextPath 
+
+
+# Greedy implementation -- not guaranteed to return the optimal
+# result, but close enough and will finish before the universal
+# ends.
+for start in nameToWords.keys():
+   remainsToBeVisited = nameToWords.keys()
+   nextPath = [start]
+   remainsToBeVisited.remove(start)
+   while len(remainsToBeVisited) > 0:
+       nearestNeighbor = min(remainsToBeVisited, key=lambda x: distance(nextPath[-1], x))
+       nextPath.append(nearestNeighbor)
+       remainsToBeVisited.remove(nearestNeighbor)
    pathDist = CalculatePathLength(nextPath, transitionToDistance)
    if ((minDist == None) or (pathDist < minDist)):
       minDist  = pathDist
       bestPath = nextPath 
 
+print
 if (bestPath != None):
-   print "Minimum path length was: ", minDist
+   #print "Minimum path length was: ", minDist
    print "Best path was: "
    for node in bestPath:
-      print node
+      print "   " + node
 else:
    print "No best path found!?"
 
