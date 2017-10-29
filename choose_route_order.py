@@ -135,8 +135,7 @@ for start in nameToWords.keys():
 
 print
 if (bestPath != None):
-   #print "Minimum path length was: ", minDist
-   print "Best path was: "
+   print "Recommended route-sequence is:"
    for node in bestPath:
       print "   " + node
 else:
